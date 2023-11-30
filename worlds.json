@@ -1,0 +1,32 @@
+{
+    "title": "CDNWorlds AtelierVR",
+    "description": "Offinal manifest for Worlds AtelierVR",
+    "author": "Hactazia",
+    "worlds": {
+        "01": {
+            "name": "AtelierVR",
+            "description": "AtelierVR default world",
+            "release": "experimental",
+            "capacity": 10,
+            "id": "01",
+            "icons": [],
+            "tags": [],
+            "links": [],
+            "updated_at": 0,
+            "created_at": 0,
+            "version": "0.0.1",
+            "plugins": [],
+            "assets": [
+                {
+                    "url": "https://ateliervr.hactazia.com/cdn/01.linux.bundle",
+                    "version": "0.0.1",
+                    "hash": "775876586787687",
+                    "size": 0,
+                    "platform": "StandaloneLinux64",
+                    "unity_version": "2023.2.1f1"
+                }
+            ]
+        }
+    },
+    "license": "MIT"
+}
