@@ -18,11 +18,19 @@
             "plugins": [],
             "assets": [
                 {
-                    "url": "https://ateliervr.hactazia.com/cdn/01.linux.bundle",
+                    "url": "https://raw.githubusercontent.com/hactazoff/avr/main/avrtest.linux.avrw",
                     "version": "0.0.1",
-                    "hash": "775876586787687",
-                    "size": 0,
-                    "platform": "StandaloneLinux64",
+                    "hash": "15918d0e9a63ab7a6dbd4d6b5c801f9727a5ffa9c46eb3a16970be34f86e0c8a",
+                    "size": 110068,
+                    "platform": "linux",
+                    "unity_version": "2023.2.1f1"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/hactazoff/avr/main/avrtest.windows.avrw",
+                    "version": "0.0.1",
+                    "hash": "4d075a9386a7e5712741e6469cd104a45a57650e45a8e375020189cedb01f221",
+                    "size": 38511,
+                    "platform": "windows",
                     "unity_version": "2023.2.1f1"
                 }
             ]
