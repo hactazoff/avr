@@ -2,8 +2,7 @@
     "title": "CDNWorlds AtelierVR",
     "description": "Offinal manifest for Worlds AtelierVR",
     "author": "Hactazia",
-    "worlds": {
-        "01": {
+    "worlds": [{
             "name": "AtelierVR",
             "description": "AtelierVR default world",
             "release": "experimental",
@@ -35,6 +34,6 @@
                 }
             ]
         }
-    },
+    ],
     "license": "MIT"
 }
