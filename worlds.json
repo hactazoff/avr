@@ -20,7 +20,7 @@
                 {
                     "url": "https://raw.githubusercontent.com/hactazoff/avr/main/avrtest.linux.avrw",
                     "version": "0.0.1",
-                    "hash": "15918d0e9a63ab7a6dbd4d6b5c801f9727a5ffa9c46eb3a16970be34f86e0c8a",
+                    "hash": "6d876a2c2c832518d7e202fffac289a11bc7d0ae9f71d509706f0c987cdc01c6",
                     "size": 110068,
                     "platform": "linux",
                     "unity_version": "2023.2.1f1"
