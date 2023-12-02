@@ -20,16 +20,16 @@
                 {
                     "url": "https://raw.githubusercontent.com/hactazoff/avr/main/avrtest.linux.avrw",
                     "version": "0.0.1",
-                    "hash": "15918d0e9a63ab7a6dbd4d6b5c801f9727a5ffa9c46eb3a16970be34f86e0c8a",
-                    "size": 110068,
+                    "hash": "a71064e287a19b8a9e52cbd8a691915c52d2e06584470b967321a515b1ecaf89",
+                    "size": 110098,
                     "platform": "linux",
                     "unity_version": "2023.2.1f1"
                 },
                 {
                     "url": "https://raw.githubusercontent.com/hactazoff/avr/main/avrtest.windows.avrw",
                     "version": "0.0.1",
-                    "hash": "4d075a9386a7e5712741e6469cd104a45a57650e45a8e375020189cedb01f221",
-                    "size": 38511,
+                    "hash": "b9b45db5d90836979c63120f5643748d9724803915557f6531559d15134d47a7",
+                    "size": 38575,
                     "platform": "windows",
                     "unity_version": "2023.2.1f1"
                 }
